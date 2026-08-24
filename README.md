@@ -31,7 +31,7 @@ local refreshMobileButtonUi, resetMobileButtonLayout, cursedInstaReset, startAut
 --  BRANDING / THEME
 -- ============================================================
 local CANDY_BRAND = "GamesHub"
-local CANDY_DISCORD = "discord.gg/stealbrainrotsab"
+local
 local CANDY_COLORS = {
     BG = Color3.fromRGB(0,0,0),
     PANEL = Color3.fromRGB(0,0,0),
